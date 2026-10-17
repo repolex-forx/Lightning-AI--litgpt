@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Lightning-AI/litgpt/commit/18c931c15c2398621d35371a12d2b1785e855bb6",
       "git:hexsha": "18c931c15c2398621d35371a12d2b1785e855bb6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T14:45:02.016223+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Lightning-AI/litgpt/commit/8a101b633dfeafd378f8fbaba6a80a4417c33576",
